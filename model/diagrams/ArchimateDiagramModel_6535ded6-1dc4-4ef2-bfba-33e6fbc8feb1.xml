@@ -39,4 +39,28 @@
         xsi:type="archimate:Equipment"
         href="Equipment_b8af2386-de15-40f9-ab70-70856d30b7f4.xml#b8af2386-de15-40f9-ab70-70856d30b7f4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b59db96b-d6c8-42a4-a45f-2ae55516793f">
+    <bounds
+        x="72"
+        y="263"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_e08e5757-01d8-428c-adb8-f0f56ff8bc4d.xml#e08e5757-01d8-428c-adb8-f0f56ff8bc4d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a281af81-d7bb-4c6f-bc51-2e87186bac2a">
+    <bounds
+        x="571"
+        y="312"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Equipment"
+        href="Equipment_fd9b1e15-69d8-4429-81cb-b2d3539b69e3.xml#fd9b1e15-69d8-4429-81cb-b2d3539b69e3"/>
+  </children>
 </archimate:ArchimateDiagramModel>
